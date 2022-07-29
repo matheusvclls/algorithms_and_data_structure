@@ -17,3 +17,8 @@ This is a repo to save my study in Algorithms and Data Structure. The idea is to
 - Linked list
 - Stack
 - Queue
+- Sorting Algorithms
+  - Insertion Sort
+  - Selection Sort
+  - Bubble Sort
+  - Merge Sort
