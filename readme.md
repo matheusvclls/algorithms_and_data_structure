@@ -9,3 +9,4 @@
 ---------------
 Features:
 - Set the O notation for each algorithm
+- Implement binary tree algorithm
